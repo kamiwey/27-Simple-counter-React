@@ -1,4 +1,5 @@
 
+
 /* 
 
     You can write your own styles here...
@@ -10,3 +11,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    background: black;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px;
+}
+.contador {
+    font-size: 75px;
+   
+}
+.col{
+    border: solid 1px white;
+    background: #2c2c2c;
+    border-radius: 10px;
+    margin: 2px 5px 2px 5px;
+}
+#secondsCountDown {
+    width: 300px;
+}
